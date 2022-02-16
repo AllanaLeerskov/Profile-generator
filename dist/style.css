@@ -40,3 +40,7 @@ body {
     display: flex;
     
 }
+
+.card {
+    width: fit-content;
+}
