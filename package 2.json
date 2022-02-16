@@ -1,0 +1,26 @@
+{
+  "name": "profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllanaLeerskov/Profile-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AllanaLeerskov/Profile-generator/issues"
+  },
+  "homepage": "https://github.com/AllanaLeerskov/Profile-generator#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
